@@ -9,7 +9,6 @@ I have not given my code to any student.
 """
 import pandas as pd
 import streamlit as st
-pip install folium
 import folium  # Folium was not taught in class
 import matplotlib.pyplot as plt
 
