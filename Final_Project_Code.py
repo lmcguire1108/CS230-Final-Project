@@ -7,6 +7,7 @@ independently.
 I have not copied the code from a student or any source.
 I have not given my code to any student. 
 """
+pip install -r requirements.txt
 import pandas as pd
 import streamlit as st
 import folium  # Folium was not taught in class
